@@ -1,16 +1,17 @@
 {
-  "name": "ngStart",
-  "homepage": "https://github.com/marcorinck/ngStart",
+  "name": "dashboard",
+  "homepage": "https://github.com/marcorinck/dashboard",
   "author": "Marco Rinck <marco.rinck@googlemail.com>",
-  "description": "This project is a skeleton to use for new angularJS projects. It works out of the box without changes and contains all the boiler plate code to setup a new project. It contains hooks for your production code, unit tests, deployment, module loading and much more.",
+  "description": "A dashboard",
   "bugs": {
-    "url": "http://github.com/marcorinck/ngStart/issues"
+    "url": "http://github.com/marcorinck/dashboard/issues"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/marcorinck/ngStart"
+    "url": "http://github.com/marcorinck/dashboard"
   },
-  "version": "0.2.1",
+  "version": "0.0.1",
+  "private": true,
   "license": "MIT",
   "devDependencies": {
     "karma": "0.12.x",
